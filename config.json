@@ -1,0 +1,7 @@
+{
+  "subreddits": ["Python", "webdev", "nextjs", "Supabase", "artificial", "Bittensor", "programming"],
+  "keywords": ["python", "next.js", "supabase", "ai agent", "bittensor", "api"],
+  "limit_per_subreddit": 20,
+  "output_file": "alerts.json",
+  "seen_file": "seen_posts.json"
+}
